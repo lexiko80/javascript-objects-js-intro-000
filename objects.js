@@ -1,1 +1,1 @@
-var playlist = { 2pac : 'All Eyez On Me'};
+var playlist = { tupac : 'All Eyez On Me'};
